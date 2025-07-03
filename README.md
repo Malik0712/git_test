@@ -1,1 +1,1 @@
-# git_test
+# This is my first Git repo following The Odin Project!
